@@ -24,7 +24,7 @@
 /** \addtogroup Core_Receiver_Library core_libs
  * \{ */
 
-
+int a;
 class Channel_Event;
 
 using channel_event_sptr = std::shared_ptr<Channel_Event>;
