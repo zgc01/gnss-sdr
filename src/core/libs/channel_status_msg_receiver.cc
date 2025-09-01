@@ -14,7 +14,7 @@
  *
  * -----------------------------------------------------------------------------
  */
-
+#define ABC  123
 
 #include "channel_status_msg_receiver.h"
 #include <glog/logging.h>
