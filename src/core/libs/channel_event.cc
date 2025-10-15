@@ -1,5 +1,5 @@
 /*!
- * \file channel_event.cc
+ * \file channel_event.cc  
  * \brief Class that defines a channel event
  * \author Javier Arribas, 2019. jarribas(at)cttc.es
  *
